@@ -1,0 +1,8 @@
+---
+title: "Document with Typo"
+author: "Akiva Shalit-Kaneh"
+date: "April 18, 2017"
+output: word_document
+---
+
+# Hillo World.
